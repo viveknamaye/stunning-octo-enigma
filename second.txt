@@ -1,0 +1,11 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is CE1D-2647
+
+ Directory of C:\Users\namay\OneDrive\Desktop\practice\jenkins
+
+18-06-2022  19:08    <DIR>          .
+18-06-2022  19:08    <DIR>          ..
+18-06-2022  19:09                 0 second.txt
+18-06-2022  19:08    <DIR>          stunning-octo-enigma
+               1 File(s)              0 bytes
+               3 Dir(s)  58,307,018,752 bytes free
